@@ -39,4 +39,4 @@ npm run dev
 
 ## Author
 
-Lucas Nicolau — Software Engineering Student at [@UFAM](https://github.com/UFAM)
+Lucas Nicolau — Software Engineering Student at @UFAM
