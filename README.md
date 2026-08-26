@@ -4,7 +4,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-Read in: **English** | [Português](README.pt.md)
+Read in: [Português](README.pt.md) | English
 
 Backend REST API built with Node.js, Express and MongoDB (Mongoose), following the MVC pattern. Includes user sessions, resource management, and a small introductory Express module.
 
